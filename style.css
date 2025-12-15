@@ -1,0 +1,69 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    text-decoration: dotted;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+img{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    margin-right: 20%;
+    margin-top: 5;
+}
+
+.Name{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.agc{
+    margin-left: 10%;
+    margin-top: 0%;
+}
+
+.Object{
+    margin-left: 10%;
+}
+
+.personal{
+    margin-left: 3%;
+    text-decoration: dotted;
+}
+
+.skills{
+    margin-left: 10%;
+}
+
+.pastJob{
+    margin-left: 10%;
+}
+
+.REF{
+    margin-left: 35%;
+    align-items: center;
+}
+
+.ref{
+    display: flex;
+    margin-right: 10%;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.PN{
+    display: flex;
+    margin-right:  22%;
+    align-items: start;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+}
+
+.resume{
+    height: 90px;
+    width: 100%;
+}
